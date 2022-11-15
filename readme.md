@@ -40,3 +40,7 @@ docker build -t eduardobilato/codeeducation .
 ```bash 
 docker run --rm eduardobilato/codeeducation
 ```
+
+## Referências:
+
+[Golang](https://gobyexample.com/hello-world)
